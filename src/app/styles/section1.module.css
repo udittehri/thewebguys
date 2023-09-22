@@ -1,0 +1,33 @@
+.mainHeading{
+    margin-top: 180px;
+    /* color: #fff;
+    text-Transform: 'uppercase';
+    margin-left: 8px; */
+}
+.bottomText{
+    width: 230px;
+    font-size: 13px;
+    color: #fff;
+
+}
+.buttonContactUs{
+    /* border: 1px solid #fff; */
+    padding: 10px;
+    /* border-radius: 50px; */
+
+}
+.buttonBorder {
+    color: #fff;
+
+    border: 1px solid #fff;
+    
+    border-radius: 50px;
+    display: flex; 
+  align-items: center;
+  padding-right: 10px;
+
+}
+.bottomBar{
+    margin-bottom: 50px;
+
+}

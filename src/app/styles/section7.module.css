@@ -1,0 +1,21 @@
+.subscribeText{
+    color: white;
+    text-decoration: underline;
+}
+.BottomLinkText{
+    color: #fff;
+    margin: 5px;
+    font-size: 18px;
+}
+.BottomLinkText:hover{
+    text-decoration: underline;
+
+}
+.special{   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.footerImageBig{
+    filter: brightness(.4) contrast(0) hue-rotate(15deg) opacity(0.6)
+}

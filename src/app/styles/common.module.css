@@ -1,0 +1,48 @@
+.customBackground1 {
+    background-image: url("./../../../public/assets/01.jpg");
+    background-size: cover;
+    /* height: auto; */
+    /* height: 100vh; */
+    /* background-image: linear-gradient(
+    to bottom,
+    rgba(255, 255, 255, 0.8) 0%,
+    rgba(255, 255, 255, 0.5) 30%,
+    rgba(255, 255, 255, 0.2) 60%,
+    rgba(255, 255, 255, 0) 100%
+  ), url('./../../../public/assets/01.jpg'); */
+  /* z-index: -1; */
+  }
+  .customBackground2{
+    /* background-image: linear-gradient(
+    to top,
+    rgba(255, 255, 255, 0.8) 0%,
+    rgba(255, 255, 255, 0.5) 30%,
+    rgba(255, 255, 255, 0.2) 60%,
+    rgba(255, 255, 255, 0) 100%
+  ), url('./../../../public/assets/Layers.svg'); */
+    background-image: url("./../../../public/assets/Layers.svg");
+    /* background-size:cover; */
+    /* height:auto; */
+    background-repeat: no-repeat;
+    /* background-color: #051f31; */
+    height: 100vh; /* Adjust the height as needed */
+  }
+
+  .customBackground3{
+    background-image: url("./../../../public/assets/02.jpg");
+    height: 100vh;
+    background-size: cover;
+
+  }
+  .customBackground4{
+    background-image: url("./../../../public/assets/Layers2.svg");
+    height:100%;
+    background-size: cover;
+
+  }
+  .underLine{
+    text-decoration: underline;
+  }
+  .commonMargin{
+    margin :2vh
+  }

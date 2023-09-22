@@ -1,0 +1,9 @@
+.filledLine{
+    border-bottom: 1px solid #fff;
+}
+.progressbar{
+    margin-top: 1vh !important;
+}
+.rightBoxWidth{
+    width: 40vh;
+}

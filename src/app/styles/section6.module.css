@@ -1,0 +1,31 @@
+.newsStand{
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid #fff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+  .actionBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .ScrollingImageContainer{
+    display: inline-flex;
+    align-items: center;
+    margin: 10px;
+    padding: 10px;
+    background-size: cover;
+  }
+  .scrollingImageItem{
+        box-shadow: 0 0 8px 8px white inset;
+  }
+  .blur{
+    width: 200px;
+    height: 200px;
+   
+    box-shadow: 0 0 8px 8px white inset;
+  }

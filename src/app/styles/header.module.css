@@ -1,0 +1,13 @@
+.headerContainer{
+    margin-top:10px;
+    margin-left:7px;
+    margin-right: 7px;
+}
+@media screen and (min-width: 599px) {
+    .menuItem {
+      display: none;
+    }
+  }
+  .menuItem {
+    display: block;
+  }
